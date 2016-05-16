@@ -1,0 +1,23 @@
+{
+  "name": "D3-Timeline",
+  "authors": [
+    "zhaolei_dell <zhaolei0791@126.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3-timeline": "^0.0.5",
+    "d3": "^3.5.17",
+    "d3kit-timeline": "^1.1.1"
+  }
+}
